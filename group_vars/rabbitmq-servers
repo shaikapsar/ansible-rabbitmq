@@ -1,0 +1,5 @@
+enable_rabbitmq_clustering: true
+erlang_cookie: agbXTWYs93xHTaLNTMzKwh7e
+rabbitmq_master: node-1
+rabbitmq_user: shaikapsar
+rabbitmq_password: password
